@@ -15,7 +15,7 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: adesh.jambhale20@gmail.com
+[1]: mailto:adesh.jambhale20@gmail.com
 [2]: https://www.linkedin.com/in/adesh-jambhale-01566b1b6/
 
 
