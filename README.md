@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=Android-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=Pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
