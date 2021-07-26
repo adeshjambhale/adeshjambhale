@@ -4,6 +4,7 @@
 - 👀 I’m interested in computers and technology
 - 🌱 I’m currently a computer engineering student
 - 💞️ I’m looking to collaborate on coding, web, application and project development 
+- ⁉️  I haven't yet uploaded all of my projects yet, but will soon upload.
 <!-- Actual text -->
 
 - 📫 [![gmail][1.2]][1], [![LinkedIn][2.2]][2].
