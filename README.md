@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Adesh Jambhale
 - 👀 I’m interested in computers and technology
-- 🌱 I’m currently a computer engineering student
+- 🌱 I’m currently a Computer Engineer and Software Developer
 - 💞️ I’m looking to collaborate on coding, web, application and project development 
 - ⁉️  I haven't yet uploaded all of my projects yet, but will soon upload.
 <!-- Actual text -->
