@@ -7,17 +7,20 @@
 - ⁉️  I haven't yet uploaded all of my projects yet, but will soon upload.
 <!-- Actual text -->
 
-- 📫 [![gmail][1.2]][1], [![LinkedIn][2.2]][2].
+- 📫 [![gmail][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2][3]] [![X][4.2]]
 
 <!-- Icons -->
 
-[1.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (gmail icon)
-[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn icon)
+[1.2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (Gmail)
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (LinkedIn)
+[3.2]: https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=linkedin&logoColor=white (Instagram)
+[4.2]: https://img.shields.io/twitter/follow/adesh_jambhale_?style=for-the-badge&logo=x&logoColor=white (X)
 
 <!-- Links to your social media accounts -->
 
 [1]: mailto:adesh.jambhale20@gmail.com
-[2]: https://www.linkedin.com/in/adesh-jambhale/
+[2]: https://www.linkedin.com/in/adeshjambhale/
+[3]: https://www.instagram.com/adeshjambhale/
 
 
 # ⚙️Technologies & Tools
