@@ -7,7 +7,7 @@
 - ⁉️  I haven't yet uploaded all of my projects yet, but will soon upload.
 <!-- Actual text -->
 
-- 📫 [![gmail][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2][3]] [![X][4.2]]
+- 📫 [![gmail][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![X][4.2]][4]
 
 <!-- Icons -->
 
@@ -21,6 +21,7 @@
 [1]: mailto:adesh.jambhale20@gmail.com
 [2]: https://www.linkedin.com/in/adeshjambhale/
 [3]: https://www.instagram.com/adeshjambhale/
+[4]: https://twitter.com/intent/follow?screen_name=adesh_jambhale_
 
 
 # ⚙️Technologies & Tools
